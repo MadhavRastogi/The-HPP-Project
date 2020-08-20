@@ -1,0 +1,13 @@
+Different Model Outputs From Best to Worst
+
+1. Random Forest Regressor -
+    Mean:  3.3251960447233335
+    Standard deviation:  0.6869569209859101
+
+2. Decision Tree Regressor -
+    Mean:  4.24888625711298
+    Standard Deviation:  0.7198431153395985
+    
+3. Linear Regression -
+    Mean:  5.037482786117751
+    Standard deviation:  1.0594382405606948
